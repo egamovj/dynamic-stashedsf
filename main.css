@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.image-container {
+    cursor: pointer;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body h6 {
+    font-size: 14px;
+    color: #3d4246;
+    font-weight: 600;
+    line-height: 1.42px;
+    margin: 0 0 8px;
+    cursor: pointer;
+}
+
+.card-body span {
+    font-size: 14px;
+    color: #222222;
+    font-weight: 400;
+}
+
+.card-body .card-title {
+    color: #969595;
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+}
